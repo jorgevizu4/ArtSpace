@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="noche_estrellada">Noche estrellada (1889)</string>
+    <string name="van_gogh">Van Gogh</string>
+    <string name="saturno_devorando_a_su_hijo">Saturno devorando a su hijo (1823)</string>
+    <string name="francisco_de_goya">Francisco de Goya</string>
+    <string name="diego_de_velazquez">Diego de Velazquez</string>
+    <string name="las_meninas">Las Meninas (1656)</string>
+</resources>
